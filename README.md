@@ -1,3 +1,1 @@
-Olá tudo bem, este meu projeto consiste basicamente em uma matéria, ou notícia, como preferir chamar, sobre uma missão espacial que está prevista para ocorrer em setembro de 2026, a missão espacial Artemis 3. Uma missão de grande importância, devido não só pela volta da humanidade à lua, mas também porque teremos a primeira mulher e o primeiro homem negro a pisar na lua.
 
-Neste projeto eu usei um arquivo index.html, e uma pasta src para armazenar outros componentes do site
