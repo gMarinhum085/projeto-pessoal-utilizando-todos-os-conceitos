@@ -37,7 +37,7 @@ label, input, button {
 }
 
 button{
-    background-color: rgb(20, 165, 75);
+    background-color: rgb(19, 150, 58);
     color: aliceblue;
     font-weight: bold;
     padding: 10px 0px 10px 0px;
@@ -58,8 +58,10 @@ input{
     background-color: #373f49;
     border-radius: 7px;
     color: aliceblue;
-    padding: 5px 0px 15px 0px;
+    padding: 10px 0px 10px 0px;
+    font-weight: bold;
 }
+
 
 input:focus, textarea{
     outline: none;
